@@ -4627,7 +4627,7 @@ input, select, textarea {
 			border: 0;
 			color: #909498;
 			cursor: pointer;
-			display: block;
+			display: flex;
 			height: 3.25rem;
 			line-height: 3.25rem;
 			padding-right: 1.25rem;
@@ -4673,7 +4673,7 @@ input, select, textarea {
 		@media screen and (max-width: 980px) {
 
 			#navPanel {
-				display: block;
+				display:block
 			}
 
 		}
